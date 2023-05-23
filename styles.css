@@ -23,7 +23,7 @@ body {
 }
 
 #hero {
-    background-image: url("images/table-mountain.jpg");
+    background-image: url("table-mountain.jpg");
     background-size: cover;
     padding: 10px 0 40px 0;
 }
